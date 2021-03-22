@@ -1,10 +1,6 @@
 public class Cat {
     private String name;
 
-    public Cat() {
-
-    }
-
     public String getName() {
         return name;
     }
